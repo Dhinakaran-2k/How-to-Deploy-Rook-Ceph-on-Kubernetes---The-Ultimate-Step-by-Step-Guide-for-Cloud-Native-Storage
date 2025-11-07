@@ -1,5 +1,3 @@
-# How-to-Deploy-Rook-Ceph-on-Kubernetes---The-Ultimate-Step-by-Step-Guide-for-Cloud-Native-Storage
-How to Deploy Rook Ceph on Kubernetes - The Ultimate Step-by-Step Guide for Cloud-Native Storage
 # 🚀 How to Deploy Rook Ceph on Kubernetes — The Ultimate Step-by-Step Guide for Cloud-Native Storage
 
 Kubernetes makes deploying applications easy.  
@@ -267,22 +265,7 @@ My passion lies in **infrastructure reliability**, **monitoring**, and **distrib
 
 When I’m not optimizing clusters or debugging production workloads, I enjoy exploring open-source technologies, mentoring engineers, and writing hands-on DevOps guides to make complex systems simple for everyone.  
 
-> 💬 Follow me on Medium for practical guides on **Kubernetes**, **Ceph**, **Argo CD**, and **Observability** — drawn from real-world SRE experience.  
+> 💬 Follow me on Medium for practical guides on **Kubernetes**, **Ceph**, **Argo CD**, and **Observability** — drawn from real-world SRE experience.
+>
+> 📎 **Connect with me on LinkedIn:** [linkedin.com/in/dhinakaran-j-1b777832b](https://www.linkedin.com/in/dhinakaran-j-1b777832b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 
----
-
-**Short footer bio:**  
-> *Dhinakaran J is a Site Reliability Engineer at NPCI specializing in Kubernetes, Ceph, Argo CD, Prometheus, and cloud-native reliability.*  
-
----
-
-### 🏷️ Suggested Tags for Medium  
-`#Kubernetes`  `#DevOps`  `#Ceph`  `#Rook`  `#ArgoCD`  `#Prometheus`  `#CloudNative`  `#SRE`  `#Storage`
-
----
-
-📸 **Suggested Image Placeholders for Medium**
-1. *Header Image:* Kubernetes + Ceph architecture visual.  
-2. *Step 1 Screenshot:* `kubectl get pods -n rook-ceph` showing operator running.  
-3. *Step 3 Screenshot:* Ceph dashboard or `ceph status` output.  
-4. *Architecture Diagram:* Use the above ASCII version converted to a PNG for a polished look.  
